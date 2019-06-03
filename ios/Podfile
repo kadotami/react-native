@@ -3,5 +3,10 @@
 
 target 'PhotoDiary' do
   pod 'Firebase/Core'
+  pod 'Firebase/Analytics', '4.2.0'
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
 end
 
