@@ -1,0 +1,3 @@
+rootProject.name = 'PhotoDiary'
+
+include ':app'
